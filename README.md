@@ -1,6 +1,6 @@
 ## Hey, I'm Liam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Currently working with back-end development, using mainly Ruby and Go.
+Currently working with back-end development, using mainly Ruby on Rails.
 
 I'm from São Paulo/Brazil.
 
